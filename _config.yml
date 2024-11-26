@@ -1,7 +1,8 @@
 title: Ascend 使用指南
 description: 一份详细全面的华为昇腾 NPU 使用指南
 theme: just-the-docs
-
+logo: "/assets/logo/logo.png"
+favicon_ico: "/assets/logo/logo.png"
 url: https://www.wangrs.site/Ascend-NPU-Usage/
 
 aux_links:
