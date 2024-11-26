@@ -1,8 +1,8 @@
-title: 华为昇腾 NPU 使用指南
+title: Ascend 使用指南
 description: 一份详细全面的华为昇腾 NPU 使用指南
 theme: just-the-docs
 
 url: https://www.wangrs.site/Ascend-NPU-Usage/
 
 aux_links:
-  Template Repository: https://github.com/WangRongsheng/Ascend-NPU-Usage
+  Github Repository: https://github.com/WangRongsheng/Ascend-NPU-Usage
