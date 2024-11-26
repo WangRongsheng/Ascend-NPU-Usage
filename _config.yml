@@ -7,3 +7,8 @@ url: https://www.wangrs.site/Ascend-NPU-Usage/
 
 aux_links:
   Github Repository: https://github.com/WangRongsheng/Ascend-NPU-Usage
+
+callouts:
+  highlight:
+    title: Highlight
+    color: yellow
