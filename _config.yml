@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 华为昇腾 NPU 使用指南
+description: 一份详细全面的华为昇腾 NPU 使用指南
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://www.wangrs.site/Ascend-NPU-Usage/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/WangRongsheng/Ascend-NPU-Usage
