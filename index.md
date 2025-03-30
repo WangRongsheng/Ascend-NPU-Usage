@@ -14,6 +14,7 @@ nav_order: 1
 1. [MindSpeed-LLM](https://gitee.com/ascend/MindSpeed-LLM)
 2. [OpenMind](https://modelers.cn/docs/zh/community/environment_installation.html)
 3. [MindIE](https://www.hiascend.com/document/detail/zh/mindie/100/releasenote/releasenote_0001.html)
+4. [vllm-ascend](https://github.com/vllm-project/vllm-ascend)
 
 ## 典型应用
 
